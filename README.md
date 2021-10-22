@@ -12,4 +12,4 @@ The environment of the application is divided among:
 
 ## Accompanying App
 
-[Food Cloud Admin](https://github.com/salwaalkhatib/FoodCloud-Admin) is an accompanying application used by the app admins to manage the orders.
+[Food Cloud Admin](https://github.com/suhaibkazi/foodcloud2) is an accompanying application used by the app admins to manage the orders.
