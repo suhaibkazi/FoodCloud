@@ -8,7 +8,7 @@
     android:orientation="vertical"
     tools:context=".receiverNavigation.myitemsrec.DashboardFragment"
     tools:ignore="MissingDefaultResource"
-    android:background="@color/lightBeige">
+    android:background="@color/lightGrey">
 
     <TextView
         android:id="@+id/text_dashboard"

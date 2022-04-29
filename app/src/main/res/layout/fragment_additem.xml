@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
 
         android:textAlignment="center"
-        android:textColor="@color/lightBeige"
+        android:textColor="@color/lightGrey"
         android:textSize="0sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

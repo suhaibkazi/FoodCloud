@@ -26,7 +26,7 @@ class SignUpReceiver : AppCompatActivity() {
 
         cntn.setOnClickListener {
             val mobile: String = nbr.text.toString().trim()
-             if(mobile.length != 8){
+             if(mobile.length != 10){
                 nbr.setError(this.resources.getString(R.string.valid_nbr))
                 nbr.requestFocus()
                  return@setOnClickListener

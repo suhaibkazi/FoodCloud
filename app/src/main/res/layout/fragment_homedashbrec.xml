@@ -8,7 +8,7 @@
     tools:context=".receiverNavigation.homedashrec.HomeFragment"
     tools:ignore="MissingDefaultResource"
     android:orientation="vertical"
-    android:background="@color/lightBeige">
+    android:background="@color/lightGrey">
 
     <TextView
         android:id="@+id/text_home"

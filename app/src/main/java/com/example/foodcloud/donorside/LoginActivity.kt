@@ -77,9 +77,9 @@ class LoginActivity : AppCompatActivity() {
         forgot.setOnClickListener {
             startActivity(Intent(this@LoginActivity, ForgotActivity::class.java))
         }
-          switching.setOnClickListener{
-                startActivity(Intent(this@LoginActivity, SignUpReceiver::class.java))
-                  }
+        switching.setOnClickListener{
+            startActivity(Intent(this@LoginActivity, SignUpReceiver::class.java))
+        }
     }
     override fun onStart() {
         super.onStart()
@@ -102,18 +102,11 @@ class LoginActivity : AppCompatActivity() {
                             postSnapshot.ref.child("expired").setValue(true)
                         }else{
                             postSnapshot.ref.child("expired").setValue(false)
-
                         }
-
                     }
-
-
                 }
-
-
             }
             override fun onCancelled(error: DatabaseError) {
-
             }
         }
         nbOrder.addValueEventListener(postListener)

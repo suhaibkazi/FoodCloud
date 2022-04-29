@@ -35,7 +35,7 @@
     <string name="please_all_fields">Please enter all the fields</string>
     <string name="success_login">Successfully Logged in</string>
     <string name="logout">Logged out</string>
-    <string name="phone_code">+961</string>
+    <string name="phone_code">+91</string>
     <string name="valid_nbr">Enter a valid phone number</string>
     <string name="reauth_success">Re-authentication successful</string>
     <string name="reauth_fail">Re-authentication failed</string>
@@ -86,6 +86,7 @@
     <string name="title_activity_receiver_bottom">MainActivity</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="switch_to_volunteer">Switch to Volunteer</string>
 
 
 </resources>

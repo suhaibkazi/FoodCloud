@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation2"
-    android:background="@color/lightBeige"
+    android:background="@color/lightGrey"
     app:startDestination="@+id/navigation_dash"
     tools:ignore="UnusedNavigation">
 

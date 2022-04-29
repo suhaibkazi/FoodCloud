@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "612747645551",
-    "firebase_url": "https://foodcloud-1f76b.firebaseio.com",
-    "project_id": "foodcloud-1f76b",
-    "storage_bucket": "foodcloud-1f76b.appspot.com"
+    "project_number": "487085144248",
+    "project_id": "foodcloud-a3b96",
+    "storage_bucket": "foodcloud-a3b96.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:612747645551:android:e68af151e39c7a8568b39a",
+        "mobilesdk_app_id": "1:487085144248:android:2e923f50d16c4052831c4d",
         "android_client_info": {
           "package_name": "com.example.foodcloud"
         }
       },
       "oauth_client": [
         {
-          "client_id": "612747645551-vfrnrea6j2aldqu0vosmlsc0vu1iclnc.apps.googleusercontent.com",
+          "client_id": "487085144248-n9m5k89vj0qncbkjndolfanr2pgm86iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcloud",
+            "certificate_hash": "055f6b0ce676966088471f65a9d69469b0b1111f"
+          }
+        },
+        {
+          "client_id": "487085144248-95g7sqdnsiqtgaltqg280i3hephvtv37.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCnvnV9YFmmsuVJEe1pL3jnSTsRHJ283bo"
+          "current_key": "AIzaSyABqrJ4T9X-CCWRxu2p9P7cF8e_WNq8ZK8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "612747645551-vfrnrea6j2aldqu0vosmlsc0vu1iclnc.apps.googleusercontent.com",
+              "client_id": "487085144248-95g7sqdnsiqtgaltqg280i3hephvtv37.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

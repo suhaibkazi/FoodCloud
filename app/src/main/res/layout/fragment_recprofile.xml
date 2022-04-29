@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".receiverNavigation.recprofile.NotificationsFragment"
     tools:ignore="MissingDefaultResource"
-    android:background="@color/lightBeige">
+    android:background="@color/lightGrey">
 
     <TextView
         android:id="@+id/text_notifications"
